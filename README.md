@@ -12,10 +12,6 @@
 
 - 💬 Ask me about **👉 Wireshark | Threat Analysis | SOC Operations | Cybersecurity Fundamentals**
 
-- 📫 How to reach me **qadeer.pro4455@gmail.com**
-
-- ⚡ Fun fact **"I believe strong passwords should be at least 100 characters long 😆"**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ abdul-qadeer-74864b348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ abdul-qadeer-74864b348" height="30" width="40" /></a>
